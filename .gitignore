@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Node
+node_modules/
+.next/
+.DS_Store
+
+# Claude
+.claude/
